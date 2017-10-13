@@ -3,6 +3,7 @@
 from map import rooms
 import string
 
+#just some change to ensure git hub works
 
 def remove_punct(text):
     """This function is used to remove all punctuation
